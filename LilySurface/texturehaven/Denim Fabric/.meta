@@ -1,0 +1,181 @@
+{
+    "name": "Denim Fabric",
+    "id": "denim_fabric",
+    "scraper": "PolyHavenTextureScraper",
+    "fetchUrl": "https://polyhaven.com/a/denim_fabric",
+    "thumbnail": "thumb.png",
+    "variants": [
+        "1k (exr)",
+        "2k (exr)",
+        "4k (exr)",
+        "8k (exr)",
+        "1k (jpg)",
+        "2k (jpg)",
+        "4k (jpg)",
+        "8k (jpg)",
+        "1k (png)",
+        "2k (png)",
+        "4k (png)",
+        "8k (png)"
+    ],
+    "custom": {
+        "variant_data": [
+            [
+                "1k",
+                "exr",
+                {
+                    "Diffuse": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/denim_fabric/denim_fabric_diff_1k.exr",
+                    "nor_gl": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/denim_fabric/denim_fabric_nor_gl_1k.exr",
+                    "AO": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/denim_fabric/denim_fabric_ao_1k.exr",
+                    "Rough": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/denim_fabric/denim_fabric_rough_1k.exr",
+                    "Displacement": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/denim_fabric/denim_fabric_disp_1k.exr",
+                    "arm": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/denim_fabric/denim_fabric_arm_1k.exr",
+                    "rough_ao": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/denim_fabric/denim_fabric_rough_ao_1k.exr"
+                }
+            ],
+            [
+                "2k",
+                "exr",
+                {
+                    "Diffuse": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/denim_fabric/denim_fabric_diff_2k.exr",
+                    "nor_gl": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/denim_fabric/denim_fabric_nor_gl_2k.exr",
+                    "AO": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/denim_fabric/denim_fabric_ao_2k.exr",
+                    "Rough": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/denim_fabric/denim_fabric_rough_2k.exr",
+                    "Displacement": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/denim_fabric/denim_fabric_disp_2k.exr",
+                    "arm": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/denim_fabric/denim_fabric_arm_2k.exr",
+                    "rough_ao": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/denim_fabric/denim_fabric_rough_ao_2k.exr"
+                }
+            ],
+            [
+                "4k",
+                "exr",
+                {
+                    "Diffuse": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/denim_fabric/denim_fabric_diff_4k.exr",
+                    "nor_gl": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/denim_fabric/denim_fabric_nor_gl_4k.exr",
+                    "AO": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/denim_fabric/denim_fabric_ao_4k.exr",
+                    "Rough": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/denim_fabric/denim_fabric_rough_4k.exr",
+                    "Displacement": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/denim_fabric/denim_fabric_disp_4k.exr",
+                    "arm": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/denim_fabric/denim_fabric_arm_4k.exr",
+                    "rough_ao": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/denim_fabric/denim_fabric_rough_ao_4k.exr"
+                }
+            ],
+            [
+                "8k",
+                "exr",
+                {
+                    "Diffuse": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/denim_fabric/denim_fabric_diff_8k.exr",
+                    "nor_gl": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/denim_fabric/denim_fabric_nor_gl_8k.exr",
+                    "AO": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/denim_fabric/denim_fabric_ao_8k.exr",
+                    "Rough": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/denim_fabric/denim_fabric_rough_8k.exr",
+                    "Displacement": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/denim_fabric/denim_fabric_disp_8k.exr",
+                    "arm": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/denim_fabric/denim_fabric_arm_8k.exr",
+                    "rough_ao": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/denim_fabric/denim_fabric_rough_ao_8k.exr"
+                }
+            ],
+            [
+                "1k",
+                "jpg",
+                {
+                    "Diffuse": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/denim_fabric/denim_fabric_diff_1k.jpg",
+                    "nor_gl": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/denim_fabric/denim_fabric_nor_gl_1k.jpg",
+                    "AO": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/denim_fabric/denim_fabric_ao_1k.jpg",
+                    "Rough": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/denim_fabric/denim_fabric_rough_1k.jpg",
+                    "Displacement": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/denim_fabric/denim_fabric_disp_1k.jpg",
+                    "arm": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/denim_fabric/denim_fabric_arm_1k.jpg",
+                    "rough_ao": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/denim_fabric/denim_fabric_rough_ao_1k.jpg"
+                }
+            ],
+            [
+                "2k",
+                "jpg",
+                {
+                    "Diffuse": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/denim_fabric/denim_fabric_diff_2k.jpg",
+                    "nor_gl": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/denim_fabric/denim_fabric_nor_gl_2k.jpg",
+                    "AO": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/denim_fabric/denim_fabric_ao_2k.jpg",
+                    "Rough": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/denim_fabric/denim_fabric_rough_2k.jpg",
+                    "Displacement": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/denim_fabric/denim_fabric_disp_2k.jpg",
+                    "arm": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/denim_fabric/denim_fabric_arm_2k.jpg",
+                    "rough_ao": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/denim_fabric/denim_fabric_rough_ao_2k.jpg"
+                }
+            ],
+            [
+                "4k",
+                "jpg",
+                {
+                    "Diffuse": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/denim_fabric/denim_fabric_diff_4k.jpg",
+                    "nor_gl": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/denim_fabric/denim_fabric_nor_gl_4k.jpg",
+                    "AO": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/denim_fabric/denim_fabric_ao_4k.jpg",
+                    "Rough": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/denim_fabric/denim_fabric_rough_4k.jpg",
+                    "Displacement": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/denim_fabric/denim_fabric_disp_4k.jpg",
+                    "arm": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/denim_fabric/denim_fabric_arm_4k.jpg",
+                    "rough_ao": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/denim_fabric/denim_fabric_rough_ao_4k.jpg"
+                }
+            ],
+            [
+                "8k",
+                "jpg",
+                {
+                    "Diffuse": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/denim_fabric/denim_fabric_diff_8k.jpg",
+                    "nor_gl": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/denim_fabric/denim_fabric_nor_gl_8k.jpg",
+                    "AO": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/denim_fabric/denim_fabric_ao_8k.jpg",
+                    "Rough": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/denim_fabric/denim_fabric_rough_8k.jpg",
+                    "Displacement": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/denim_fabric/denim_fabric_disp_8k.jpg",
+                    "arm": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/denim_fabric/denim_fabric_arm_8k.jpg",
+                    "rough_ao": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/denim_fabric/denim_fabric_rough_ao_8k.jpg"
+                }
+            ],
+            [
+                "1k",
+                "png",
+                {
+                    "Diffuse": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/denim_fabric/denim_fabric_diff_1k.png",
+                    "nor_gl": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/denim_fabric/denim_fabric_nor_gl_1k.png",
+                    "AO": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/denim_fabric/denim_fabric_ao_1k.png",
+                    "Rough": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/denim_fabric/denim_fabric_rough_1k.png",
+                    "Displacement": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/denim_fabric/denim_fabric_disp_1k.png",
+                    "arm": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/denim_fabric/denim_fabric_arm_1k.png",
+                    "rough_ao": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/denim_fabric/denim_fabric_rough_ao_1k.png"
+                }
+            ],
+            [
+                "2k",
+                "png",
+                {
+                    "Diffuse": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/denim_fabric/denim_fabric_diff_2k.png",
+                    "nor_gl": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/denim_fabric/denim_fabric_nor_gl_2k.png",
+                    "AO": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/denim_fabric/denim_fabric_ao_2k.png",
+                    "Rough": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/denim_fabric/denim_fabric_rough_2k.png",
+                    "Displacement": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/denim_fabric/denim_fabric_disp_2k.png",
+                    "arm": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/denim_fabric/denim_fabric_arm_2k.png",
+                    "rough_ao": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/denim_fabric/denim_fabric_rough_ao_2k.png"
+                }
+            ],
+            [
+                "4k",
+                "png",
+                {
+                    "Diffuse": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/denim_fabric/denim_fabric_diff_4k.png",
+                    "nor_gl": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/denim_fabric/denim_fabric_nor_gl_4k.png",
+                    "AO": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/denim_fabric/denim_fabric_ao_4k.png",
+                    "Rough": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/denim_fabric/denim_fabric_rough_4k.png",
+                    "Displacement": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/denim_fabric/denim_fabric_disp_4k.png",
+                    "arm": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/denim_fabric/denim_fabric_arm_4k.png",
+                    "rough_ao": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/denim_fabric/denim_fabric_rough_ao_4k.png"
+                }
+            ],
+            [
+                "8k",
+                "png",
+                {
+                    "Diffuse": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/denim_fabric/denim_fabric_diff_8k.png",
+                    "nor_gl": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/denim_fabric/denim_fabric_nor_gl_8k.png",
+                    "AO": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/denim_fabric/denim_fabric_ao_8k.png",
+                    "Rough": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/denim_fabric/denim_fabric_rough_8k.png",
+                    "Displacement": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/denim_fabric/denim_fabric_disp_8k.png",
+                    "arm": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/denim_fabric/denim_fabric_arm_8k.png",
+                    "rough_ao": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/denim_fabric/denim_fabric_rough_ao_8k.png"
+                }
+            ]
+        ]
+    }
+}
