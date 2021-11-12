@@ -1,0 +1,22 @@
+{
+    "name": "Blue Cotton 01",
+    "id": "blue-cotton-01",
+    "scraper": "CgbookcaseScraper",
+    "fetchUrl": "https://www.cgbookcase.com/textures/blue-cotton-01",
+    "thumbnail": "thumb.jpg",
+    "variants": [
+        "1K",
+        "2K"
+    ],
+    "custom": {
+        "resolutions": [
+            "1K",
+            "2K"
+        ],
+        "files": {
+            "1K": "https://cgbookcase-volume.b-cdn.net/t/BlueCotton01_MR_1K.zip",
+            "2K": "https://cgbookcase-volume.b-cdn.net/t/BlueCotton01_MR_2K.zip"
+        },
+        "doublesided": false
+    }
+}

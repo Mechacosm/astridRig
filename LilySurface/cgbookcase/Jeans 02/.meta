@@ -1,0 +1,22 @@
+{
+    "name": "Jeans 02",
+    "id": "jeans-02",
+    "scraper": "CgbookcaseScraper",
+    "fetchUrl": "https://www.cgbookcase.com/textures/jeans-02",
+    "thumbnail": "thumb.jpg",
+    "variants": [
+        "1K",
+        "2K"
+    ],
+    "custom": {
+        "resolutions": [
+            "1K",
+            "2K"
+        ],
+        "files": {
+            "1K": "https://cgbookcase-volume.b-cdn.net/t/Jeans02_MR_1K.zip",
+            "2K": "https://cgbookcase-volume.b-cdn.net/t/Jeans02_MR_2K.zip"
+        },
+        "doublesided": false
+    }
+}
